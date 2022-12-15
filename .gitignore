@@ -71,3 +71,8 @@ local.properties
 
 *.zip
 
+apache-tomcat-9.0.69/
+jdk-11/
+eclipse/
+
+
